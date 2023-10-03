@@ -18,6 +18,27 @@ I am Julio Felipe Prá Spigolan. I'm from Caxias do sul, Brasil. I am currently 
   <li><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></li>
   <li><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></li>
 </ul>
+<br>
+<h2>💼 Escolaridade:</h2>
+<br>
+<ul>
+  <li>Engenharia de Minas</li>
+  <ul>
+    <li>Instituição:Universidade Federal do Rio Grande do Sul</li>
+    <li>Ano de conclusão: 2019</li>
+  </ul>
+  <ul>
+  <li>1ª Edição - Despertar Dev</li>
+  <ul>
+    <li>Instituição:Growdev</li>
+    <li>Previsão de conclusão: 2024</li>
+  </ul>
+  <li>Análise e Desenvolvimento de Sistemas</li>
+  <ul>
+    <li>Instituição:UNIFTEC</li>
+    <li>Previsão de conclusão: 2025</li>
+  </ul>
+</ul>
 
 
 
