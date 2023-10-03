@@ -23,21 +23,20 @@ I am Julio Felipe Prá Spigolan. I'm from Caxias do sul, Brasil. I am currently 
 <br>
 <ul>
   <li>Engenharia de Minas</li>
-  <ul>
-    <li>Instituição:Universidade Federal do Rio Grande do Sul</li>
-    <li>Ano de conclusão: 2019</li>
-  </ul>
-  <ul>
+    <ul>
+      <li>Instituição:Universidade Federal do Rio Grande do Sul</li>
+      <li>Ano de conclusão: 2019</li>
+    </ul>
   <li>1ª Edição - Despertar Dev</li>
-  <ul>
-    <li>Instituição:Growdev</li>
-    <li>Previsão de conclusão: 2024</li>
-  </ul>
+    <ul>
+      <li>Instituição:Growdev</li>
+      <li>Previsão de conclusão: 2024</li>
+    </ul>
   <li>Análise e Desenvolvimento de Sistemas</li>
-  <ul>
-    <li>Instituição:UNIFTEC</li>
-    <li>Previsão de conclusão: 2025</li>
-  </ul>
+    <ul>
+      <li>Instituição:UNIFTEC</li>
+      <li>Previsão de conclusão: 2025</li>
+    </ul>
 </ul>
 
 
