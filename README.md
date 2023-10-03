@@ -3,10 +3,12 @@
 <hr>
 Eu sou Julio Felipe Prá Spigolan. Sou de Caxias do Sul, Brasil. Atualmente, sou bolsista na <a href="https://www.growdev.com.br/">Growdev</a> por meio da Sicredi e estudante de Análise e Desenvolvimento de Sistemas na UNIFTEC. Eu adoro fazer desenvolvimento web e estou aberto a aprender novas tecnologias.
 <br>
+<br>
 I am Julio Felipe Prá Spigolan. I'm from Caxias do sul, Brasil. I am currently a scholarship holder at <a href="https://www.growdev.com.br/">Growdev</a> through Sicredi and System Development Student at UNIFTEC.I love to do web development and open to learning new technologies.
 <hr>
 <br>
-## 🛠️ O que estou estudando:
+<h2>🛠️ O que estou estudando:</h2>
+<br>
 <ul>
   <li><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white"></li>
   <li><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></li>
